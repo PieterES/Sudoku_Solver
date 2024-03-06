@@ -6,7 +6,7 @@ Sudoku Solver with brute force and constraints
 ![](https://github.com/PieterES/Sudoku_Solver/blob/main/Brute_force.gif)
 
 
-# End result:
+# Constrained:
 
 ![](https://github.com/PieterES/Sudoku_Solver/blob/main/Constrained.gif)
 
